@@ -1,0 +1,99 @@
+{% macro page_publish_metadata(page, comma) %}
+  {% if page.date %}
+  <span style="color:gray">
+    <span class="icon">
+      <i class="fa fa-calendar"></i>
+    </span>
+    <time datetime='{{ page.date }}'>{{ page.date | date(format='%d %B,
+        %Y') }}</time>{% if comma %},{% endif %}
+  </span>
+  {% endif %}
+{% endmacro %}
+
+{% macro page_content_metadata(page) %}
+  <span style="color:gray">
+    <span class="icon">
+      <i class="fa fa-clock-o"></i>
+    </span>
+    {{ page.reading_time }} min,
+    <span class="icon">
+      <i class="fa fa-pencil-square-o"></i>
+    </span>
+    {{ page.word_count }} words
+  </span>
+{% endmacro %}
+
+{% macro render_tags(page) %}
+  {% if page.taxonomies.tags %}
+  <span style="color:gray">
+    <span class="has-text-black has-text-weight-normal">Tags:</span>
+    {% for tag in page.taxonomies.tags %}
+      <a class="link has-text-weight-light" href='{{ get_taxonomy_url(kind='tags', name=tag) }}'>
+        <span class="icon is-small">
+          <i class="fa fa-tag fa-xs"></i>
+        </span>
+        {{ tag | lower | replace(from=" ", to="-")}}
+      </a>
+    {% endfor %}
+  </span>
+  {% endif %}
+{% endmacro %}
+
+{% macro page_share_links(page) %}
+  <p class="is-size-5">
+    Share:
+    <a class="link" data-sharer="facebook" data-url='{{ page.permalink }}' href="javascript:void(0);" title="Share on facebook">
+      <span class="icon">
+        <i class="fab fa-facebook-square"></i>
+      </span>
+    </a>
+    <a class="link" data-sharer="twitter" data-title='{{ page.title }}' data-url='{{ page.permalink }}' href="javascript:void(0);" title="Share on twitter">
+      <span class="icon">
+        <i class="fab fa-twitter"></i>
+      </span>
+    </a>
+    <a class="link" data-sharer="linkedin" data-url='{{ page.permalink }}' href="javascript:void(0);" title="Share on linkedin">
+      <span class="icon">
+        <i class="fab fa-linkedin"></i>
+      </span>
+    </a>
+    <a class="link" data-sharer="reddit" data-url='{{ page.permalink }}' href="javascript:void(0);" title="Share on reddit">
+      <span class="icon">
+        <i class="fab fa-reddit"></i>
+      </span>
+    </a>
+    <a class="link" data-sharer="hackernews" data-title="{{ page.title }}" data-url='{{ page.permalink }}' href="javascript:void(0);" title="Share on hackernews">
+      <span class="icon">
+        <i class="fab fa-hacker-news"></i>
+      </span>
+    </a>
+    <a class="link" data-sharer="whatsapp" data-title="{{ page.title }}" data-url='{{ page.permalink }}' href="javascript:void(0);" title="Share on whatsapp">
+      <span class="icon">
+        <i class="fab fa-whatsapp-square"></i>
+      </span>
+    </a>
+  </p>
+{% endmacro %}
+
+{% macro page_summary_card(page) %}
+    <div class="card">
+      <div class="card-body">
+          <h3 class="card-title"><a class="text-body" href="{{ page.permalink | safe }}">{{ page.title }}</a></h3>
+        <div align="right">
+            {{ self::page_publish_metadata(page=page, comma=false) }}
+        </div>
+        <div align="right">
+            {{ self::page_content_metadata(page=page) }}
+        </div>
+        <section class="card-text center">{{ page.summary | safe }}</section>
+        <div>
+            {{ self::render_tags(page=page) }}
+        </div>
+      <footer>
+      <a href="{{ page.permalink | safe }}#continue-reading"
+          class= "button">Read More</a>
+      </footer>
+      </div>
+    </div>
+    <br>
+{% endmacro %}
