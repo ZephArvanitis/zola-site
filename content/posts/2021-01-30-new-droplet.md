@@ -74,6 +74,7 @@ necessary to view those files via a website.
         (and ensure that file is owned by zeph rather than root!)
     - try it out! `ssh zeph@wxyzeph.com -i /path/to/private/key`
 8. Copy files over! (at some point I need to learn rsync)
+    - (with rsync: `rsync -avz public/ wxyzeph:/var/www/wxyzeph/html`)
 9. Get ssl/https set up
     - install certbot `apt-get install certbot`
     - add mod ssl `apt-get install python3-certbot-apache`

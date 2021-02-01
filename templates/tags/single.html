@@ -3,7 +3,7 @@
 
 {% block content %}
 <article class="four-fifth center">
-    <h1 class="text-center">Posts in the {{ term.name |  lower}} tag</h1>
+    <h1 class="text-center">Posts in the <i>{{ term.name |  lower}}</i> tag</h1>
     <p class="text-center">(<a href="/{{ taxonomy.name }}">See all tags</a>)</p>
     <div class="row"><div class="col-12 col-lg-8 offset-lg-2">
       {% for page in term.pages %}
