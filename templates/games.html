@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% block title %}Board games{% endblock title %}
+
+{% block content %}
+{% if paginator %}
+    {% set pages = paginator.pages %}
+{% else %}
+    {% set pages = section.pages %}
+{% endif %}
+<article class="four-fifth center">
+    <h1 class="text-center">{{ section.title }}</h1>
+    <h2 class="text-center">Favorites</h2>
+    <div class="row"><div class="col-12 col-lg-8 offset-lg-2">
+      {% for page in pages %}
+          {% if page.extra.played %}
+              {{ macros::game_summary(page=page) }}
+          {% endif %}
+      {% endfor %}
+
+      <h2 class="text-center">To play someday</h2>
+      {% for page in pages %}
+          {% if not page.extra.played %}
+              {{ macros::game_summary(page=page) }}
+          {% endif %}
+      {% endfor %}
+
+      <br>
+
+    </div>
+    <br/>
+</article>
+{% endblock content %}

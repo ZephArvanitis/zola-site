@@ -97,3 +97,37 @@
     </div>
     <br>
 {% endmacro %}
+
+{% macro game_summary(page) %}
+    <div class="card">
+      <div class="card-body">
+          <h3 class="card-title"><a class="" href="{{
+                  page.extra.link | safe }}">{{ page.title }}</a></h3>
+        <section class="card-text center">{{ page.summary | safe }}</section>
+        <div>
+        {% if page.extra.min_players and page.extra.max_players %}
+            <p>
+            <span class="icon">
+              <i class="fa fa-users"></i>
+            </span>
+            {{ page.extra.min_players }} - {{ page.extra.max_players }} players
+            </p>
+        {% endif %}
+        {% if page.extra.note %}
+            <p class="small m-1">{{ page.extra.note }}</p>
+        {% endif %}
+        {% if page.extra.donation_link %}
+        <p class="small m-1"><a href="{{ page.extra.donation_link
+                  }}">Donation link </a></p>
+        {% endif %}
+        </div>
+        {% if page.content %}
+      <footer>
+      <a href="{{ page.permalink | safe }}"
+          class= "button">Read More</a>
+      </footer>
+      {% endif %}
+      </div>
+    </div>
+    <br>
+{% endmacro %}
