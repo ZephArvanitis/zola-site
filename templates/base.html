@@ -43,10 +43,11 @@
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav mr-auto">
-            <li class="nav-item active">
-              <a class="nav-link" href="/posts">Posts</a>
+            <li class="nav-item active px-2">
+              <a class="nav-link pt-3" href="/posts">Posts</a>
             </li>
-            <!-- <li class="nav-item dropdown">
+            <!--
+              <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 Dropdown
               </a>
@@ -61,11 +62,13 @@
               <a class="nav-link disabled" href="#">Disabled</a>
             </li>
           </ul>
-          <form class="form-inline my-2 my-lg-0">
-            <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-          </form>
           -->
+          <form class="form-inline my-2 my-lg-0 px-2">
+            <input class="form-control mr-sm-2" id="search" type="search" placeholder="Search full words" aria-label="Search" style="max-width:90%">
+              <div class="search-results dropdown-menu px-3 mx-3" aria-labelledby="navbarDropdown" style="max-width:500px;width:80%">
+                <div class="search-results__items"></div>
+              </div>
+          </form>
         </div>
     </nav>
 
@@ -81,5 +84,11 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns"
         crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/elasticlunr/0.9.6/elasticlunr.min.js">
+        </script>
+      <script src='{{ get_url(path='search_index.en.js')  }}'></script>
+
+
+    <script src="{{ get_url(path='js/search.js') }}"></script>
 </body>
 </html>
