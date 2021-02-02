@@ -24,7 +24,7 @@ First, I should mention what a roll is: it's the safest self-rescue technique in
 
 <!-- wp:paragraph -->
 
-Like in a [previous learning experience](https://heytasha.com/questions/2018/05/drysuits-2-0-eskimo-bow-rescue/), we started with me grabbing the bow of Ted's boat and lowering myself most of the way into the water. From there he coached me through an effective hip snap. The idea is to use your legs and abs to right yourself, with torso and head following afterwards. Once that seemed to be working, he talked me through the basic paddle movement and what my body is doing at the same time.
+Like in a [previous learning experience](@/posts/2018-05-03-drysuits-bow-rescue.md), we started with me grabbing the bow of Ted's boat and lowering myself most of the way into the water. From there he coached me through an effective hip snap. The idea is to use your legs and abs to right yourself, with torso and head following afterwards. Once that seemed to be working, he talked me through the basic paddle movement and what my body is doing at the same time.
 
 <!-- /wp:paragraph -->
 

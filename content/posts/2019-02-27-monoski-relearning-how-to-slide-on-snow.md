@@ -59,7 +59,10 @@ And lest you think this a halfhearted attempt to get folks with certain disabili
 
 <!-- wp:paragraph -->
 
-The typical teaching progression differs from [two-track skiing](https://heytasha.com/questions/2018/11/adaptive-ski-instructing/) by the fact that you're on one ski, with outriggers. So no wedges or "you can just balance" by default. Roughly speaking:
+The typical teaching progression differs from [two-track
+skiing](@/posts/2018-11-26-adaptive-ski-instructing.md) by the fact that
+you're on one ski, with outriggers. So no wedges or "you can just balance"
+by default. Roughly speaking:
 
 <!-- /wp:paragraph -->
 

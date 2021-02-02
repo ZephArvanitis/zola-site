@@ -12,7 +12,14 @@ Before I get into it, a few favorite photos from the trip:
 
 #### Getting ready
 
-I used my standard [hammock camping](https://heytasha.com/questions/2018/04/hammock-camping-new-zealand/) setup for this trip. I switched a down sleeping bag for my synthetic one, mostly because it looked awfully lonely after not being used all summer. And I've started using a trucker's hitch for tarp tie-outs instead of my old taut line hitch. It's fast, easy to adjust, easy to untie, and generally nice. Thanks to Alex and Sid for teaching me this lovely knot this summer in Seward.
+I used my standard [hammock
+camping](@/posts/2018-04-28-hammock-camping-in-new-zealand.md) setup for
+this trip. I switched a down sleeping bag for my synthetic one, mostly
+because it looked awfully lonely after not being used all summer. And I've
+started using a trucker's hitch for tarp tie-outs instead of my old taut
+line hitch. It's fast, easy to adjust, easy to untie, and generally nice.
+Thanks to Alex and Sid for teaching me this lovely knot this summer in
+Seward.
 
 On top of my usual camping setup, I camped with a stove for effectively the first time. Oh, I've used the pocket rocket a bunch, but never on solo trips. I've been just as happy with quick no-cook meals in the past. But it was cold on this trip, and I wanted to bring a stove at least for safety, so I ended up packing extra fuel and using it to cook as well. I am a big fan of this tiny alcohol burning stove.
 

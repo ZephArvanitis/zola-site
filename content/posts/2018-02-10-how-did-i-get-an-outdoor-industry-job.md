@@ -10,7 +10,16 @@ This week I had the tremendous pleasure of accepting my first outdoor industry j
 
 ### Learning the ropes
 
-My first serious conversation about what it takes to work in the outdoors was over the summer last year, when I sat down with two fabulous kayak guides in Alaska and absorbed a ton of wisdom from them. It was from these two amazing women that I learned what outdoor industry jobs tend to entail, when and where to start looking for them, and what's important in an application. Most significantly, they emphasized the importance of a wilderness first responder (WFR) certification. I took my WFR course in October through NOLS and it was an absolute blast. I wrote about it on an [older blog](https://heytasha.com/rafiki-posts/2017-11-02-wilderness-first-responder.html) if you want to hear more about it.
+My first serious conversation about what it takes to work in the outdoors was
+over the summer last year, when I sat down with two fabulous kayak guides in
+Alaska and absorbed a ton of wisdom from them. It was from these two amazing
+women that I learned what outdoor industry jobs tend to entail, when and where
+to start looking for them, and what's important in an application. Most
+significantly, they emphasized the importance of a wilderness first responder
+(WFR) certification. I took my WFR course in October through NOLS and it was an
+absolute blast. I wrote about it on an [older
+blog (now updated to be here too!)](@/posts/2017-11-02-wilderness-first-response.md)
+if you want to hear more about it.
 
 At that point, I started mentioning my harebrained work-in-the-outdoors plan to friends and family. Almost everyone I spoke with had a friend or two who'd done something similar. Many people were kind enough to introduce me to their outdoorsy friend(s), and I started hearing stories and advice about outdoor industry jobs.
 

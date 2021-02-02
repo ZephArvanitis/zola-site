@@ -4,7 +4,9 @@ date = 2018-05-24
 [taxonomies]
 tags = ["Alaska", "How stuff works", "Kayak Adventures"]
 +++
-I was pretty unsatisfied with my first take on [glaciers 101](https://heytasha.com/questions/2018/05/glacier-talks/). Here's another attempt, after letting that stew for a while.
+I was pretty unsatisfied with my first take on [glaciers
+101](@/posts/2018-05-23-glacier-talks.md). Here's another attempt, after
+letting that stew for a while.
 
 #### Glaciers 101
 

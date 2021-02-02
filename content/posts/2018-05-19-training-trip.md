@@ -4,7 +4,13 @@ date = 2018-05-19
 [taxonomies]
 tags = ["Alaska", "Kayak Adventures"]
 +++
-Yesterday night we got back to Seward from our five-day training trip. It's hard to describe how amazing this trip was. I learned a ton, practiced important skills, and generally [forged intellectual and emotional connections](https://heytasha.com/questions/2018/05/purposeful-interpretation/) to these amazing fjords we call home. I'm planning several posts about it – there's no way it would all fit in one! For now, I just want to set the scene and give a glimpse of how awesome it was.
+Yesterday night we got back to Seward from our five-day training trip. It's
+hard to describe how amazing this trip was. I learned a ton, practiced
+important skills, and generally [forged intellectual and emotional
+connections](@/posts/2018-05-09-purposeful-interpretation.md)
+to these amazing fjords we call home. I'm planning several posts about it –
+there's no way it would all fit in one! For now, I just want to set the scene
+and give a glimpse of how awesome it was.
 
 <!-- more -->
 
@@ -22,7 +28,9 @@ And our overall plan:
 
 - Day three: Aialik and then paddle across the bay to Abra Cove. This is a stunning granitic cove with beautiful meltwater waterfalls trickling down the walls. Like Pedersen, we don't go here on day trips, and I'm very sad that I won't get to see it again this summer.
 
-  - We had an exciting [unplanned lightning drill](https://heytasha.com/questions/2018/05/lightning-drill-training-trip/) this day as well.
+  - We had an exciting [unplanned lightning
+  drill](@/posts/2018-05-22-training-story-lightning-drill-on-ice.md) this day
+  as well.
 
 - Day four: Aialik and then water taxi around the cape to Kayaker's Cove. This was my guide day, and a total blast. More on that later.
 

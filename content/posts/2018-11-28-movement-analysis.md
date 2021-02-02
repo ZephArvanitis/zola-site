@@ -22,6 +22,6 @@ Next we observed each other as a group, with commentary from Kevin about what he
 
 Finally, we paired up and took turns watching each other skiing. Here we got practice describing what we saw and suggesting exercises to address it. For example, one skier tended to drop a shoulder on each turn. So we each tried a few turns balancing our poles horizontally on outstretched arms, and the shoulder dip magically disappeared.
 
-#### What \_I \_learned
+#### What _I_ learned
 
 I had two big takeaways about my own skiing. First, I currently use a whole-body pole-plant strategy, which wastes energy and is a bit inefficient. I'm now working on directing my poles with just my wrists and forearms, rather than my whole torso. Second, while I'm pretty good at parallel turns and such, my wedge turns are downright sloppy. I'll be modeling wedge turns to many students this winter, so I'd better clean those up!

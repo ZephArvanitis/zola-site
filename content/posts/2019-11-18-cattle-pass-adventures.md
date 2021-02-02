@@ -10,7 +10,17 @@ tags = ["Adventuring"]
 
 <!-- wp:paragraph -->
 
-This summer I worked to develop my technical kayaking skills – not just [rolling](https://heytasha.com/questions/2019/07/rolling-persistence-and-failure/), but also comfort in bigger and faster waters than I'd previously experienced. In August, I got a fabulous opportunity to build skills and experience amazing waters. Alex, one of the incredibly awesome sea kayak guides and coaches here, invited me on a day-long paddle to Cattle Pass and then onward to Friday Harbor. Thanks, Alex!
+This summer I worked to develop my technical kayaking skills – not just
+[rolling](@/posts/2019-07-22-rolling-persistence-and-failure.md), but also
+comfort in bigger and faster waters than I'd previously experienced. In August,
+I got a fabulous opportunity to build skills and experience amazing waters.
+Alex, one of the incredibly awesome sea kayak guides and coaches here, invited
+me on a day-long paddle to Cattle Pass and then onward to Friday Harbor.
+Thanks, Alex!
+
+<!-- more -->
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1VOzrvUO31hskPJDZp8vacrImZJK4lPEa" width="100%" height="480"></iframe>
 
 <!-- /wp:paragraph -->
 

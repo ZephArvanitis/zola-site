@@ -6,7 +6,11 @@ tags = ["Adventuring", "EMS", "National Ability Center", "Teaching"]
 +++
 <!-- wp:paragraph -->
 
-Well, it's the shoulder season again. That means transitions and an opportunity for reflection. Like [last season](https://heytasha.com/questions/2018/09/seasonal-statistics-summer-2018/), I thought a statistical view of the experience would be interesting, so here it is!
+Well, it's the shoulder season again. That means transitions and an
+opportunity for reflection. Like [last
+season](@/posts/2018-09-19-seasonal-statistics-summer-2018-by-the-numbers.md),
+I thought a statistical view of the experience would be interesting, so
+here it is!
 
 <!-- /wp:paragraph -->
 
@@ -31,7 +35,15 @@ First off, I skied a total of 108 days this season. Not all of those were full d
 <!-- wp:list -->
 
 - Total lessons: 94. This includes both half-day and full-day lessons. I wish I'd kept track of distinct students versus students I taught repeatedly, but I'd estimate I taught about 70-75 students throughout the season.
-- Training hours: 80 or so after our orientation week. This included bi-ski tethering camp, learning to guide and teach people with visual impairments, learning to [monoski](https://heytasha.com/questions/2019/02/monoski/), [skills trainings](https://heytasha.com/questions/2019/01/edging-clinic-philippe/), a memorable prosthetics clinic, and several others that don't come to mind immediately. One of my big goals this winter was to learn a ton, and I think I can call that a success! Corollary: I am also proud to now be a certified PSIA adaptive level one instructor.
+- Training hours: 80 or so after our orientation week. This included bi-ski
+tethering camp, learning to guide and teach people with visual impairments,
+learning to
+[monoski](@/posts/2019-02-27-monoski-relearning-how-to-slide-on-snow.md),
+[skills trainings](@/posts/2019-01-28-edging-clinic-with-philippe.md), a
+memorable prosthetics clinic, and several others that don't come to mind
+immediately. One of my big goals this winter was to learn a ton, and I think I
+can call that a success! Corollary: I am also proud to now be a certified PSIA
+adaptive level one instructor.
 - Between teaching and training and helping out around the mountain center, I worked a total of around 83 days.
 
 <!-- /wp:list -->
@@ -87,7 +99,7 @@ In addition to ski instructing, I also did a bit of tutoring to keep myself busy
 
 <!-- wp:paragraph -->
 
-Finally, this winter I pursued something I've wanted to do for a long time: I took an EMT-basic course. I finished up the course at the end of March, and now I'm waiting to take my national registry written test. The whole process was a real joy. I learned a ton about the human body and ways it can malfunction under pressure. I also learned about teamwork and the everyday courage of thousands of first responders across the country. I've been accumulating some notes [here](https://heytasha.com/questions/emt-resources/), which I hope to add to as I have time.
+Finally, this winter I pursued something I've wanted to do for a long time: I took an EMT-basic course. I finished up the course at the end of March, and now I'm waiting to take my national registry written test. The whole process was a real joy. I learned a ton about the human body and ways it can malfunction under pressure. I also learned about teamwork and the everyday courage of thousands of first responders across the country. I've been accumulating some notes [here](/tags/ems), which I hope to add to as I have time.
 
 <!-- /wp:paragraph -->
 
@@ -108,7 +120,9 @@ Finally, this winter I pursued something I've wanted to do for a long time: I to
 
 <!-- wp:paragraph -->
 
-Alright, fair warning: I’m about to talk about money. If you’re uncomfortable with that in any way, skip to the [rest of the post](#safe-to-read) and _stop reading now._ I’ll write a little filler and then stick in some blank lines so nothing hits you in the face. Have a nice day!
+Alright, fair warning: I’m about to talk about money. If you’re uncomfortable with that in any way, skip to the [rest of the post](#up-next) and _stop reading now._ I’ll write a little filler and then stick in some blank lines so nothing hits you in the face. Have a nice day!
+
+<div style="padding:100% 0">&nbsp;</div>
 
 <!-- /wp:paragraph -->
 
@@ -149,6 +163,8 @@ And expenses!
 <!-- wp:paragraph -->
 
 To be honest, I'm not thrilled with my finances this season. I guess working for a nonprofit as an instructor isn't particularly...well, profitable. And with substantial educational expenses, my take-home savings were a little less than \$1000.
+
+<div style="padding:100% 0">&nbsp;</div>
 
 <!-- /wp:paragraph -->
 

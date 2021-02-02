@@ -6,7 +6,7 @@ tags = ["GIS"]
 +++
 <!-- wp:paragraph -->
 
-Learn to add magnetic declination to all your QGIS maps and charts! [Part 1 is here](https://heytasha.com/questions/2020/08/install-qgis-plugin/).
+Learn to add magnetic declination to all your QGIS maps and charts! [Part 1 is here](@/posts/2020-08-16-install-a-qgis-plugin.md).
 
 <!-- /wp:paragraph -->
 
@@ -44,7 +44,7 @@ Well, if you're in QGIS, look no further! This is a step-by-step walkthrough of 
 
 <!-- wp:paragraph -->
 
-This tutorial expects that you've already Installed the Magnetic Declination plugin. If you're not sure how to do that, check out my post on the topic [here](https://heytasha.com/questions/2020/08/install-qgis-plugin/).
+This tutorial expects that you've already Installed the Magnetic Declination plugin. If you're not sure how to do that, check out my post on the topic [here](@/posts/2020-08-16-install-a-qgis-plugin.md).
 
 <!-- /wp:paragraph -->
 

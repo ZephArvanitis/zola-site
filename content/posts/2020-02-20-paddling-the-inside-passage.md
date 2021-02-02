@@ -24,7 +24,11 @@ Really, why not?
 
 <!-- wp:paragraph -->
 
-Less flippantly, I've been honing my kayaking skills (and personal finances) for a few years now, and I feel ready for a longer endeavor. Thus far, the [longest trip I've done](https://heytasha.com/questions/2019/10/circumnavigation-of-orcas-island-solo-kayak-trip/) is five days, and I'm ready to bite off a bit more.
+Less flippantly, I've been honing my kayaking skills (and personal finances)
+for a few years now, and I feel ready for a longer endeavor. Thus far, the
+[longest trip I've
+done](@/posts/2019-10-09-circumnavigation-of-orcas-island-solo-kayak-trip.md)
+is five days, and I'm ready to bite off a bit more.
 
 <!-- /wp:paragraph -->
 

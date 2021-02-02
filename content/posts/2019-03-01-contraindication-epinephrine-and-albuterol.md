@@ -167,6 +167,6 @@ What about tachycardia? Surely if epi has more "oomph" than albuterol, tachycard
 
 <!-- wp:paragraph -->
 
-I have a page going of [EMT resources](https://heytasha.com/questions/emt-resources/), which will collect various EMT-related posts.
+You can see other EMS-related posts [here](/tags/ems).
 
 <!-- /wp:paragraph -->

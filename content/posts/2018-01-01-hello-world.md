@@ -1,9 +1,13 @@
 +++
 title = "Hello, world?"
 date = 2018-01-01
+updated = 2021-02-02
 [taxonomies]
-tags = ["Programming"]
+tags = ["web-dev"]
 +++
+UPDATE (2 Feb 2021): I'm no longer running this site from wordpress, but these
+notes were super helpful to me – perhaps they can be for others as well.
+
 Hi there world! If you can read this, then my WordPress install actually worked. Excuse me while I go celebrate by drinking designer orange juice and disconnecting from Stack Overflow for a bit.
 
 <!-- more -->

@@ -12,7 +12,7 @@ Recently I've been out west downhill skiing in glorious Park City, Utah. All tha
 
 This is something that bugged me when I was a kid: why could my parents or other adults outpace me on those long nearly-flat segments of downhill skiing even if I pointed my skis straight down the hill? The answer turns out to be fairly straightforward: consider the main forces on a skier. We have gravity and the normal force, which collude to push our skier downward, versus friction and air resistance, which both slow the skier's motion.
 
-If we ignore air resistance and assume friction behaves nicely (proportional to the normal force) then the acceleration of our ideal skier will have nothing to do with their mass. That's based on the same principles as when Galileo fictitiously dropped two different weights off a certain Pisan tower. And that point is where younger-Tasha got stuck.
+If we ignore air resistance and assume friction behaves nicely (proportional to the normal force) then the acceleration of our ideal skier will have nothing to do with their mass. That's based on the same principles as when Galileo fictitiously dropped two different weights off a certain Pisan tower. And that point is where younger-me got stuck.
 
 Here's what I was missing: just like a feather and a book fall at different rates in real life, lighter skiers will "fall" down the slope slower than a heavier one. The reason: air resistance. In general, it's proportional to the object's front-facing area and the square of the object's velocity. Thanks to that velocity dependence, we can solve for a terminal velocity, when friction and drag exactly match the down-slope force. And the terminal velocity increases roughly with the square root of the skier's mass.
 

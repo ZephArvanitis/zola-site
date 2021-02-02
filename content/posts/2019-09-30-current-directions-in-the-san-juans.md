@@ -2,7 +2,7 @@
 title = "Current directions in the San Juans"
 date = 2019-09-30
 [taxonomies]
-tags = ["Adventuring", "Anacortes Kayak Tours", "Programming"]
+tags = ["Adventuring", "Anacortes Kayak Tours", "Programming", "GIS"]
 +++
 <!-- wp:paragraph -->
 
@@ -83,12 +83,16 @@ From here, it was time to boot up a Jupyter notebook and dig into the data! I wa
 
 <!-- wp:image {"id":561,"align":"center","linkDestination":"media"} -->
 
-[<img src="/img/questions-wp-content-uploads-2019-09-tide-map.png" alt="Chart shows current directions across the San Juan Islands.](/img/wp-content-uploads-2019-09-tide-map.png)" class="center" width=50%>
+<img src="/img/questions-wp-content-uploads-2019-09-tide-map.png" alt="Chart
+shows current directions across the San Juan Islands." class="center"
+width=50%>
 
 Current directions in the San Juans!
 
-DISCLAIMER: Not intended for navigation or planning purposes, no warranty etc., don't do stupid stuff.  
-Also, because this uses GADM, it cannot be used for commercial applications – feel free to reproduce (for free) as long as you provide a link to this page and credit Tasha Arvanitis/heytasha.com
+DISCLAIMER: Not intended for navigation or planning purposes, no warranty etc.,
+don't do stupid stuff.  Also, because this uses GADM, it cannot be used for
+commercial applications – feel free to reproduce (for free) as long as you
+provide a link to this page and credit Tasha/Zeph Arvanitis/wxyzeph.com
 
 <!-- /wp:image -->
 

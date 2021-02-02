@@ -4,7 +4,18 @@ date = 2018-04-28
 [taxonomies]
 tags = ["Adventuring", "Family travel"]
 +++
-Before coming to Seward (as discussed [here](https://heytasha.com/questions/2018/04/getting-to-know-seward/)), I had the enormous pleasure of traveling around New Zealand for nearly seven weeks in March and April. In order to stay flexible and get off the beaten track, we decided that we'd be traveling in a van. Most people – my aunt, uncle, and three young cousins – slept in the van, while I set up my hammock nearby. I've always loved hammock camping, and this trip was no exception. Over the course of seven weeks of camping nearly every day, I learned a ton. My three big areas of growth were: way more confidence in my tarp setups, managing all my gear inside the hammock, and improvising a tarp tent from my equipment. Before I get into that, I'll summarize my hammock setup, and I'll wrap up with a list of things I'm still working on.
+Before coming to Seward (as discussed
+[here](@/posts/2018-04-27-getting-to-know-seward-alaska.md)), I had the
+enormous pleasure of traveling around New Zealand for nearly seven weeks in
+March and April. In order to stay flexible and get off the beaten track, we
+decided that we'd be traveling in a van. Most people – my aunt, uncle, and
+three young cousins – slept in the van, while I set up my hammock nearby. I've
+always loved hammock camping, and this trip was no exception. Over the course
+of seven weeks of camping nearly every day, I learned a ton. My three big areas
+of growth were: way more confidence in my tarp setups, managing all my gear
+inside the hammock, and improvising a tarp tent from my equipment. Before I get
+into that, I'll summarize my hammock setup, and I'll wrap up with a list of
+things I'm still working on.
 
 <!-- more -->
 

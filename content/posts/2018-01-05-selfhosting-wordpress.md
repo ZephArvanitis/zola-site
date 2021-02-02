@@ -1,14 +1,30 @@
 +++
 title = "Self-Hosting WordPress"
 date = 2018-01-05
+updated = 2021-02-02
 [taxonomies]
-tags = ["Programming"]
+tags = ["web-dev"]
 +++
-As I may have mentioned [before](https://heytasha.com/questions/2018/01/hello-world/), I'm self-hosting WordPress on a virtual private server (droplet) from [DigitalOcean](https://www.digitalocean.com/products/compute/). Given how much time and effort have gone into getting this up and running over the last month, I wanted to share how I did it and where I stumbled. In the minimal-impact case, it'll make it easier for myself next time. In the best case, maybe someone else will find it useful too.
+UPDATE (2 Feb 2021): I'm no longer running this site from wordpress, but these
+notes were super helpful to me – perhaps they can be for others as well.
+
+As I may have mentioned [before](@/posts/2018-01-01-hello-world.md), I'm
+self-hosting WordPress on a virtual private server (droplet) from
+[DigitalOcean](https://www.digitalocean.com/products/compute/). Given how much
+time and effort have gone into getting this up and running over the last month,
+I wanted to share how I did it and where I stumbled. In the minimal-impact
+case, it'll make it easier for myself next time. In the best case, maybe
+someone else will find it useful too.
 
 <!-- more -->
 
-As a fair warning, this site (heytasha.com/questions) is actually my second attempt at self-hosting WordPress. My first was a standalone website with a URL that was way too long: questionsquestionseverywhere.com. That's a long enough URL that I started abbreviating it and referring simply to QQE, a bad sign. And I messed up enough on that first attempt that it's safe to say this is my first success at self-hosting. In the below discussion, I'll talk a little about the roadblocks I encountered on both installation attempts.
+As a fair warning, this site (heytasha.com/questions) is actually my second
+attempt at self-hosting WordPress. My first was a standalone website with a URL
+that was way too long: questionsquestionseverywhere.com. That's a long enough
+URL that I started abbreviating it and referring simply to QQE, a bad sign. And
+I messed up enough on that first attempt that it's safe to say this is my first
+success at self-hosting. In the below discussion, I'll talk a little about the
+roadblocks I encountered on both installation attempts.
 
 ## Finding a guide
 

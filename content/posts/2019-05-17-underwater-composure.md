@@ -13,7 +13,12 @@ I'm particularly excited to improve my technical paddling skills this summer. Be
 
 <!-- wp:paragraph -->
 
-I've mentioned before that I [panic underwater in a kayak](https://heytasha.com/questions/2018/05/drysuits-2-0-eskimo-bow-rescue/). Last season in Seward, I gradually improved my confidence at a smooth wet exit, but that's about where my efforts ended. I confessed this fact to these coaches and Erik, and mentioned my interest in mastering a roll. They've been super supportive.
+I've mentioned before that I [panic underwater in a
+kayak](@/posts/2018-05-03-drysuits-bow-rescue.md). Last season in Seward, I
+gradually improved my confidence at a smooth wet exit, but that's about
+where my efforts ended. I confessed this fact to these coaches and Erik,
+and mentioned my interest in mastering a roll. They've been super
+supportive.
 
 <!-- /wp:paragraph -->
 

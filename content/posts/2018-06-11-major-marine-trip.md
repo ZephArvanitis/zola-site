@@ -14,9 +14,15 @@ The wildlife was really out performing for us on this trip. Before we fully got 
 
 https://youtu.be/_hj36zs2dws
 
-Other than that, we were lucky enough to see a small pod of [killer whales](https://heytasha.com/questions/2018/05/killer-whales/)! These had a real charisma. It was amazing to see the whole boat go quiet when we saw them.
+Other than that, we were lucky enough to see a small pod of [killer
+whales](@/posts/2018-05-06-killer-whales.md)! These had a real charisma. It was
+amazing to see the whole boat go quiet when we saw them.
 
-And finally, one of our funniest sightings coincided with those killer whales. I spotted a few of my fellow guides on a familiar water taxi near us, also getting a look. I got to practice my binocular picture taking skills, and I came up with this gem. It surprised these guides when I sent it to them, once we were back in cell service.
+And finally, one of our funniest sightings coincided with those killer whales.
+I spotted a few of my fellow guides on a familiar water taxi near us, also
+getting a look. I got to practice my binocular picture taking skills, and I
+came up with this gem. It surprised these guides when I sent it to them, once
+we were back in cell service.
 
 <img src="/img/questions-wp-content-uploads-2018-06-IMG_4154.jpg" class="center" width=50%>
 

@@ -4,7 +4,12 @@ date = 2018-05-08
 [taxonomies]
 tags = ["Adventuring", "Alaska", "Kayak Adventures"]
 +++
-Today was our first "real" kayaking day trip during training. I mentioned it briefly [previously](https://heytasha.com/questions/2018/05/surface-maps/), when we had to cancel because of weather. But today was the day! It dawned bright, clear, and early. The weather turned out to be perfect, a solitary clear day between giant storms. Tides were fairly small and fine for our plan. In summary, it was an ideal day for a kayaking day trip!
+Today was our first "real" kayaking day trip during training. I mentioned
+it briefly [previously](@/posts/2018-05-05-surface-maps.md), when we had to
+cancel because of weather. But today was the day! It dawned bright, clear,
+and early. The weather turned out to be perfect, a solitary clear day
+between giant storms. Tides were fairly small and fine for our plan. In
+summary, it was an ideal day for a kayaking day trip!
 
 <!-- more -->
 

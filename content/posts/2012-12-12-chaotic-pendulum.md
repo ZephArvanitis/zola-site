@@ -23,7 +23,7 @@ Introduction
 ============
 
 <figure>
-  <img class="center" src="https://heytasha.com/images/chaotic-pendulum-system-diagram.png">
+  <img class="center" src="/img/chaotic-pendulum/chaotic-pendulum-system-diagram.png">
   <figcaption>
   The chaotic pendulum under investigation.
   The dashed circle represents
@@ -81,8 +81,8 @@ $U'(\theta)$ at the unstable equilibrium at the top of the disk yields
 
 $$\begin{aligned}
   U'(\theta) &= mgR\sin\theta - k_1 r\left(x_1+r\theta-De^{-i\omega t}\right)
-                +k_2 r\left(x_2-r\theta\right)\\
-  U'(0) &= -k_1x_1 + k_2x_2 = 0\\
+                +k_2 r\left(x_2-r\theta\right)\\\\
+  U'(0) &= -k_1x_1 + k_2x_2 = 0\\\\
   k_1x_1 &= k_2x_2.\end{aligned}$$
 
 Here the drive has been omitted, as we take it to be at the center of
@@ -91,19 +91,18 @@ its displacement when the apparatus is balanced.
 Note that the potential and kinetic energies do not account for damping.
 This will be addressed shortly. The Lagrangian (sans damping) is
 $$L = \frac{1}{2}I\dot\theta^2 -
-mgR\cos\theta - \frac{1}{2}k_1\left(x_1+r\theta-De^{-i\omega t}\right)^2\\
+mgR\cos\theta - \frac{1}{2}k_1\left(x_1+r\theta-De^{-i\omega t}\right)^2\\\\
        -\frac{1}{2}k_2\left(x_2-r\theta\right)^2.$$
 Euler’s equation shows
 
-$$\begin{aligned}
+$$\begin{align}
   \mathbf{F}\cdot\frac{\partial\mathbf{r}}{\partial \theta}&=
-  \frac{d}{dt}\frac{\partial L}{\partial\dot\theta}
-  - \frac{\partial L}{\partial \theta} \\
-  -c\dot\theta &= I\ddot\theta-\left(mgR\sin\theta-
+  \frac{d}{dt}\frac{\partial L}{\partial\dot\theta} - \frac{\partial L}{\partial \theta} \\\\
+  -c\dot\theta &amp;= I\ddot\theta-\left(mgR\sin\theta-
   k_1r\left(x_1+r\theta-De^{-i\omega t}\right)
-  +k_2r(x_2-r\theta)\right).\end{aligned}$$
+  +k_2r(x_2-r\theta)\right).\end{align}$$
 
-The left-hand term is \\(-c \\dot\\theta\\) because the external force from the
+The left-hand term is $-c \dot\theta$ because the external force from the
 damper will eventually end up being proportional to the speed of
 rotation. This $c$ does <span>*not*</span> correspond to the damping
 coefficient for the eddy-current damper. The whole term is negative
@@ -135,15 +134,15 @@ lab space downstairs. As such, we fixed most of our constants
 to match the parameters of that system. We made this decision in order
 to compare theoretical predictions with experimental results. Our
 parameters are: $$\begin{array}{rcl}
-\text{Mass of disk}                & M &   {0.120~\mathrm{kg}}\\
-\text{Eccentric mass}              & m &   {0.01454~\mathrm{kg}}\\
-\text{Radius of disk}              & R &   {0.0475~\mathrm{m}}\\
-\text{Radius of pulley}            & r &   {0.024~\mathrm{m}}\\
-\text{Left spring constant}        & k_1 & {3.12~\mathrm{N/m}}\\
-\text{Right spring constant}       & k_2 & {3.13~\mathrm{N/m}}\\
-\text{Acceleration due to gravity} & g &   {9.81~\mathrm{m/s^2}}\\
-\text{Damping constant}            & c &   {0.0001~\mathrm{kg\,m/s}}\\
-\text{Drive amplitude}             & D &   {0.0254~\mathrm{m}}\\
+\text{Mass of disk}                & M &   {0.120~\mathrm{kg}}\\\\
+\text{Eccentric mass}              & m &   {0.01454~\mathrm{kg}}\\\\
+\text{Radius of disk}              & R &   {0.0475~\mathrm{m}}\\\\
+\text{Radius of pulley}            & r &   {0.024~\mathrm{m}}\\\\
+\text{Left spring constant}        & k_1 & {3.12~\mathrm{N/m}}\\\\
+\text{Right spring constant}       & k_2 & {3.13~\mathrm{N/m}}\\\\
+\text{Acceleration due to gravity} & g &   {9.81~\mathrm{m/s^2}}\\\\
+\text{Damping constant}            & c &   {0.0001~\mathrm{kg\,m/s}}\\\\
+\text{Drive amplitude}             & D &   {0.0254~\mathrm{m}}\\\\
 \end{array}$$ where the damping constant was chosen somewhat
 arbitrarily. We chose the value of $c$ based on approximate behavior of
 the system; that is with chaotic behavior beginning and ending between 0
@@ -166,7 +165,7 @@ energy increases as we wind the pendulum up further, with small dips as
 the height, and potential energy due to gravity, fluctuate.
 
 <figure>
-  <img class="center" src="https://heytasha.com/images/chaotic-pendulum-potential-zoomed.png" width="50%">
+  <img class="center" src="/img/chaotic-pendulum/chaotic-pendulum-potential-zoomed.png" width="50%">
   <figcaption>
   Potential wells (potential energy as a function of the angular position)
   for small values of $\theta$.
@@ -174,7 +173,7 @@ the height, and potential energy due to gravity, fluctuate.
 </figure>
 
 <figure>
-  <img class="center" src="https://heytasha.com/images/chaotic-pendulum-potential.png" width="50%">
+  <img class="center" src="/img/chaotic-pendulum/chaotic-pendulum-potential.png" width="50%">
   <figcaption>
   Potential wells (potential energy as a function of the angular position)
   for larger values of $\theta$.
@@ -197,7 +196,7 @@ small displacement from the stable equilibrium in either potential well
 results in motion that looks a lot like simple harmonic oscillation.
 
 <figure>
-  <img class="center" src="https://heytasha.com/images/chaotic-pendulum-time-trace-simplified.png"
+  <img class="center" src="/img/chaotic-pendulum/chaotic-pendulum-time-trace-simplified.png"
   width=50%>
   <figcaption>
   Angular position (blue) and velocity (red) as a function of time for a
@@ -220,7 +219,7 @@ motion. At the highest frequencies the physical system is built for
 (around 1 Hz), the system goes back to periodic motion in one well.
 
 <figure>
-  <img class="center" src="https://heytasha.com/images/chaotic-pendulum-omegapt242.png"
+  <img class="center" src="/img/chaotic-pendulum/chaotic-pendulum-omegapt242.png"
   width=50%>
   <figcaption>
   Simulated angular position (blue) and velocity (red) as a function of time for
@@ -228,7 +227,7 @@ motion. At the highest frequencies the physical system is built for
   </figcaption>
 </figure>
 <figure>
-  <img class="center" src="https://heytasha.com/images/chaotic-pendulum-omegapt405.png"
+  <img class="center" src="/img/chaotic-pendulum/chaotic-pendulum-omegapt405.png"
   width=50%>
   <figcaption>
   Simulated angular position (blue) and velocity (red) as a function of time for
@@ -236,7 +235,7 @@ motion. At the highest frequencies the physical system is built for
   </figcaption>
 </figure>
 <figure>
-  <img class="center" src="https://heytasha.com/images/chaotic-pendulum-omegapt762.png"
+  <img class="center" src="/img/chaotic-pendulum/chaotic-pendulum-omegapt762.png"
   width=50%>
   <figcaption>
   Simulated angular position (blue) and velocity (red) as a function of time for
@@ -244,7 +243,7 @@ motion. At the highest frequencies the physical system is built for
   </figcaption>
 </figure>
 <figure>
-  <img class="center" src="https://heytasha.com/images/chaotic-pendulum-omegapt91.png"
+  <img class="center" src="/img/chaotic-pendulum/chaotic-pendulum-omegapt91.png"
   width=50%>
   <figcaption>
   Simulated angular position (blue) and velocity (red) as a function of time for
@@ -270,7 +269,7 @@ position. After an initial transient is allowed to die out, any periodic
 behavior will be seen as a closed loop. An example of a phase plot of
 periodic behavior is shown below.
 <figure>
-  <img class="center" src="https://heytasha.com/images/chaotic-pendulum-boring-phase-plot.png"
+  <img class="center" src="/img/chaotic-pendulum/chaotic-pendulum-boring-phase-plot.png"
   width=30%>
   <figcaption>
   Phase plot of the chaotic pendulum system. The plot shown uses a driving
@@ -287,7 +286,7 @@ plot leaves out the phase of the drive, which is required in order to fully
 describe the system’s behavior.
 
 <figure>
-  <img class="center" src="https://heytasha.com/images/chaotic-pendulum-fun-phase-plot.png"
+  <img class="center" src="/img/chaotic-pendulum/chaotic-pendulum-fun-phase-plot.png"
   width=30%>
   <figcaption>
   Phase plot of the chaotic pendulum system. The plot shown uses a driving
@@ -313,7 +312,7 @@ Poincaré plots for several drive frequencies:
 
 
 <figure>
-  <img class="center" src="https://heytasha.com/images/chaotic-pendulum-poincarept1.png"
+  <img class="center" src="/img/chaotic-pendulum/chaotic-pendulum-poincarept1.png"
   width=50%>
   <figcaption>
   Poincaré plot depicting simple periodic behavior with a single period
@@ -321,7 +320,7 @@ Poincaré plots for several drive frequencies:
   </figcaption>
 </figure>
 <figure>
-  <img class="center" src="https://heytasha.com/images/chaotic-pendulum-poincarept92.png"
+  <img class="center" src="/img/chaotic-pendulum/chaotic-pendulum-poincarept92.png"
   width=50%>
   <figcaption>
   Poincaré plot depicting period doubling, in which the system takes two
@@ -329,14 +328,14 @@ Poincaré plots for several drive frequencies:
   </figcaption>
 </figure>
 <figure>
-  <img class="center" src="https://heytasha.com/images/chaotic-pendulum-poincarept36.png"
+  <img class="center" src="/img/chaotic-pendulum/chaotic-pendulum-poincarept36.png"
   width=50%>
   <figcaption>
   Poincaré plot depicting chaotic behavior.
   </figcaption>
 </figure>
 <figure>
-  <img class="center" src="https://heytasha.com/images/chaotic-pendulum-poincarept858.png"
+  <img class="center" src="/img/chaotic-pendulum/chaotic-pendulum-poincarept858.png"
   width=50%>
   <figcaption>
   Poincaré plot depicting chaotic behavior.
@@ -354,14 +353,14 @@ bifurcation diagram and a zoomed version of a region of period doubling
 are shown below.
 
 <figure>
-  <img class="center" src="https://heytasha.com/images/chaotic-pendulum-bifurcationsurvey.png"
+  <img class="center" src="/img/chaotic-pendulum/chaotic-pendulum-bifurcationsurvey.png"
   width=100%>
   <figcaption>
   Bifurcation diagram over the full range of frequencies simulated.
   </figcaption>
 </figure>
 <figure>
-  <img class="center" src="https://heytasha.com/images/chaotic-pendulum-bifurcationdetail.png"
+  <img class="center" src="/img/chaotic-pendulum/chaotic-pendulum-bifurcationdetail.png"
   width=100%>
   <figcaption>
   Bifurcation diagram over a smaller region of interest.
@@ -409,7 +408,7 @@ which chaos begins are similar between theory and experiment, but the drive
 amplitudes at which these frequencies of onset occur are slightly offset.
 
 <figure>
-  <img class="center" src="https://heytasha.com/images/chaotic-pendulum-chaos-onset-physical.png"
+  <img class="center" src="/img/chaotic-pendulum/chaotic-pendulum-chaos-onset-physical.png"
   width=60%>
   <figcaption>
   A plot of the frequencies at which chaotic behavior begins in the
@@ -417,7 +416,7 @@ amplitudes at which these frequencies of onset occur are slightly offset.
   </figcaption>
 </figure>
 <figure>
-  <img class="center" src="https://heytasha.com/images/chaotic-pendulum-chaos-onset-theory.png"
+  <img class="center" src="/img/chaotic-pendulum/chaotic-pendulum-chaos-onset-theory.png"
   width=60%>
   <figcaption>
   A plot of the frequencies at which chaotic behavior begins in the
@@ -439,7 +438,7 @@ value is just as reasonable an estimate as the one we have used thus
 far.
 
 <figure>
-  <img class="center" src="https://heytasha.com/images/chaotic-pendulum-chaos-onset-theory00015.png"
+  <img class="center" src="/img/chaotic-pendulum/chaotic-pendulum-chaos-onset-theory00015.png"
   width=60%>
   <figcaption>
   Plot of the frequencies at which chaotic behavior begins in the
@@ -459,14 +458,14 @@ qualitatively similar. It is possible that adjusting the damping
 constant as discussed above would improve the resemblance.
 
 <figure>
-  <img class="center" src="https://heytasha.com/images/chaotic-pendulum-720experiment.png"
+  <img class="center" src="/img/chaotic-pendulum/chaotic-pendulum-720experiment.png"
   width=80%>
   <figcaption>
   Poincaré plot from experimental data at a drive frequency of 0.720 Hz.
   </figcaption>
 </figure>
 <figure>
-  <img class="center" src="https://heytasha.com/images/chaotic-pendulum-720theory.png"
+  <img class="center" src="/img/chaotic-pendulum/chaotic-pendulum-720theory.png"
   width=80%>
   <figcaption>
   Poincaré plot from simulation data at a drive frequency of 0.720 Hz.

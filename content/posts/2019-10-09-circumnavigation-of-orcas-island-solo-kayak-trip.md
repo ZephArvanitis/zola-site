@@ -6,13 +6,20 @@ tags = ["Adventuring", "Anacortes Kayak Tours"]
 +++
 <!-- wp:paragraph -->
 
-As the season in Anacortes drew to a close, I found myself searching for some sort of culminating experience to wrap things up. Since business slows down at the end of September, I was able to get four days off in a row: Monday through Thursday. So I got started planning an expedition of my own! It turned into a full circumnavigation of Orcas Island over four and a half days, with a gale-enforced layover day in the middle.
+As the season in Anacortes drew to a close, I found myself searching for some
+sort of culminating experience to wrap things up. Since business slows down at
+the end of September, I was able to get four days off in a row: Monday through
+Thursday. So I got started planning an expedition of my own! It turned into a
+full circumnavigation of Orcas Island over four and a half days, with a
+gale-enforced layover day in the middle.
 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 
-This was my first solo expedition as well as my first experience planning a trip myself. It was also the reason I finally sat down and made a [map of current directions](https://heytasha.com/questions/2019/09/current-direction-in-the-san-juans/).
+This was my first solo expedition as well as my first experience planning a
+trip myself. It was also the reason I finally sat down and made a [map of
+current directions](@/posts/2019-09-30-current-directions-in-the-san-juans.md).
 
 <!-- /wp:paragraph -->
 

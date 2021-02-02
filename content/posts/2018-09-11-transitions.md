@@ -4,7 +4,11 @@ date = 2018-09-11
 [taxonomies]
 tags = ["Alaska", "Kayak Adventures"]
 +++
-\_<img src="/img/questions-wp-content-uploads-2018-09-IMG_5510.jpg" class="center" width=50%>\_Well, as of last Friday, we have finished our kayaking season. So it's time for some transitions for everyone.
+<img src="/img/questions-wp-content-uploads-2018-09-IMG_5510.jpg"
+class="center" width=50%>
+
+Well, as of last Friday, we have finished our kayaking season. So it's time for
+some transitions for everyone.
 
 <!-- more -->
 
@@ -12,7 +16,7 @@ tags = ["Alaska", "Kayak Adventures"]
 
 Transitions like this tend to necessitate a lot of logistics. Plane flights, housing, all the joys of moving... In no particular order:
 
-- The season has ended! That marks the end of my first season of outdoors work, and of kayak guiding more specifically. Keep an eye out over the next few weeks, I'm aiming to post some reflections and also a "[summer 2018 by the numbers](https://heytasha.com/questions/2018/09/seasonal-statistics-summer-2018/)" post.
+- The season has ended! That marks the end of my first season of outdoors work, and of kayak guiding more specifically. Keep an eye out over the next few weeks, I'm aiming to post some reflections and also a "[summer 2018 by the numbers](@/posts/2018-09-19-seasonal-statistics-summer-2018-by-the-numbers.md)" post.
 - For this winter, I'll be working as an adaptive ski instructor in Park City, UT. The National Ability Center is a great organization that specializes in adaptive recreation, or getting folks with disabilities outdoors. I'm definitely looking forward to starting!
 - My fall plans are a bit less concrete. After our end of season trip, I'm on my way back to the Chicago area by way of Seattle and Claremont, CA. From there, I hope to spend three or four weeks relaxing someplace interesting. Stay tuned for more info on that!
 

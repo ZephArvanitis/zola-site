@@ -18,7 +18,7 @@ There's a delightful surf spot around 30 minutes down the road, and it gets love
 
 <!-- wp:paragraph -->
 
-Before coming down here, I'd surfed about three times, all in [tide races](https://heytasha.com/questions/2019/11/cattle-pass-adventures/) around the San Juans. So my first time at Juncalito also meant my first beach break. Luckily, Ginni was willing to show me the ropes. We spent around half an hour going over the basics of surfing, then I was off to play on my own.
+Before coming down here, I'd surfed about three times, all in [tide races](@/posts/2019-11-18-cattle-pass-adventures.md) around the San Juans. So my first time at Juncalito also meant my first beach break. Luckily, Ginni was willing to show me the ropes. We spent around half an hour going over the basics of surfing, then I was off to play on my own.
 
 <!-- /wp:paragraph -->
 

@@ -12,8 +12,7 @@ to see you there!
 
 <!-- more -->
 
-<img class="center" src="https://heytasha.com/images/16-ghc-teaser.png"
-alt="title slide for my talk" width="50%"/>
+<img class="center" src="/img/16-ghc-teaser.png" alt="title slide for my talk" width="50%"/>
 
 ## EDIT (After GHC)
 

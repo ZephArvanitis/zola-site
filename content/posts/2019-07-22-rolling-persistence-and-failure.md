@@ -6,7 +6,7 @@ tags = ["Adventuring", "Anacortes Kayak Tours"]
 +++
 <!-- wp:paragraph -->
 
-Since my [last post about rolling](https://heytasha.com/questions/2019/05/roll-session/), I've gone out a few more times to keep working on my roll. It's been a heck of a journey, with a four-week span in which a single roll during a practice session was a big accomplishment. By now, though, I think I at least have a decent roll down. In practice sessions, when I'm expecting to capsize. So there's still plenty of work to be done.
+Since my [last post about rolling](@/posts/2019-06-01-roll-session.md), I've gone out a few more times to keep working on my roll. It's been a heck of a journey, with a four-week span in which a single roll during a practice session was a big accomplishment. By now, though, I think I at least have a decent roll down. In practice sessions, when I'm expecting to capsize. So there's still plenty of work to be done.
 
 <!-- /wp:paragraph -->
 

@@ -4,7 +4,14 @@ date = 2018-05-23
 [taxonomies]
 tags = ["Alaska", "How stuff works", "Kayak Adventures"]
 +++
-Before I can start getting checked out as a guide, I need to pitch five tarps, practice my "beach speech" five times, and try out five glacier talks. I discussed these glacier talks a little while ago in the context of [thematic interpretation](https://heytasha.com/questions/2018/05/purposeful-interpretation/). I need to be prepared to give two different "glacier talks." The first is an introduction to glaciers, and the second is elaborating on that to feed into a theme. Imagine that I'm delivering these out on the water, in nearby Aialik Bay.
+Before I can start getting checked out as a guide, I need to pitch five
+tarps, practice my "beach speech" five times, and try out five glacier
+talks. I discussed these glacier talks a little while ago in the context of
+[thematic interpretation](@/posts/2018-05-09-purposeful-interpretation.md). I
+need to be prepared to give two different "glacier talks." The first is an
+introduction to glaciers, and the second is elaborating on that to feed
+into a theme. Imagine that I'm delivering these out on the water, in nearby
+Aialik Bay.
 
 <!-- more -->
 

@@ -12,7 +12,9 @@ Here is my exploration of the Falls, through questions.
 
 <!-- more -->
 
-## [<img src="/img/questions-wp-content-uploads-2018-01-IMG_2720-1.jpg" alt="Icy lamppost at Niagara Falls](https://heytasha.com/questions/wp-content/uploads/2018/01/IMG_2720-1.jpg)" class="center" width=50%>Some questions
+<img src="/img/questions-wp-content-uploads-2018-01-IMG_2720-1.jpg" class="center" width=50%>
+
+## Some questions
 
 - How big are they, really? _The Falls had at least 50,000 cubic feet of water flowing over them per second when I saw them, thanks to the Niagara Treaty (1950). It's more in the summer, during peak tourist season. See [the treaty text](http://www.treaty-accord.gc.ca/text-texte.aspx?id=100418) for more details (article IV)._
 - Why do they look so green? _According to [Niagara Parks](https://www.niagaraparks.com/visit-niagara-parks/plan-your-visit/niagara-falls-geology-facts-figures/), the green is from rock flour and dissolved minerals (how do those create a green color?), while [Niagara Frontier](http://www.niagarafrontier.com/faq.html#colour) adds that microscopic algae called diatoms also contribute to the vibrant color._

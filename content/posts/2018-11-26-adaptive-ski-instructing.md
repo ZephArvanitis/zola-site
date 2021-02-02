@@ -4,7 +4,12 @@ date = 2018-11-26
 [taxonomies]
 tags = ["Adventuring", "National Ability Center", "Utah"]
 +++
-As I've mentioned [before](https://heytasha.com/questions/2018/09/transitions/), I'm doing adaptive ski instructing this winter, and today was our first day of training! Day one was a combination of assessment and training. We hit the slopes – many of us for the first time all season – and also started to learn about the beginner ski progression. Let's see how much of it I remember a few hours later.
+As I've mentioned [before](@/posts/2018-09-11-transitions.md), I'm doing
+adaptive ski instructing this winter, and today was our first day of training!
+Day one was a combination of assessment and training. We hit the slopes – many
+of us for the first time all season – and also started to learn about the
+beginner ski progression. Let's see how much of it I remember a few hours
+later.
 
 #### What I thought was the beginner ski progression
 

@@ -4,7 +4,16 @@ date = 2018-03-07
 [taxonomies]
 tags = ["Adventuring", "Family travel"]
 +++
-I'm currently traveling around New Zealand with my aunt, uncle, and three cousins (ages 8, 4, and 18 months), as mentioned in a previous [post](https://heytasha.com/questions/2018/01/2018-adventures/). About every 1-7 days we drive another three-ish hours to a new destination. That grows into our big-picture plan: drive from Auckland south to Fiordland National Park, then back up to Auckland. We are van camping most of the way: their family in a tent on top of the van and me in my hammock setup. Best of all, we have enough bikes to head into town once camp is set up. So far, traveling with kids can be a real challenge, but it's also filled with joy and surprises.
+I'm currently traveling around New Zealand with my aunt, uncle, and three
+cousins (ages 8, 4, and 18 months), as mentioned in a previous
+[post](@/posts/2018-01-13-outdoor-adventures.md). About every 1-7 days we
+drive another three-ish hours to a new destination. That grows into our
+big-picture plan: drive from Auckland south to Fiordland National Park,
+then back up to Auckland. We are van camping most of the way: their family
+in a tent on top of the van and me in my hammock setup. Best of all, we
+have enough bikes to head into town once camp is set up. So far, traveling
+with kids can be a real challenge, but it's also filled with joy and
+surprises.
 
 Based on my first week of tagging along, here's an incomplete list of "rules" for traveling with kids.
 

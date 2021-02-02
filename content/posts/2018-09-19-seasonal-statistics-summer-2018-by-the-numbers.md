@@ -11,11 +11,13 @@ Another note: I haven't had the time to figure out some numbers, though I hope t
 #### Trip statistics
 
 - Total trips led: This summer, I led upwards of ninety trips: 93 if you count trips exclusively for friends and family. In addition, I shadowed four trips led by returning guides during the check-out process, and one three-day trip in the later part of the season.
-- Trips to a Aialik: I led 35 trips to Aialik Glacier, and spent a total of 41 days out in Aialik Bay (or 42 if you count exploring there with the [Spirit of Adventure](https://heytasha.com/questions/2018/06/major-marine-trip/)).
+- Trips to a Aialik: I led 35 trips to Aialik Glacier, and spent a total of
+  41 days out in Aialik Bay (or 42 if you count exploring there with the
+  [Spirit of Adventure](@/posts/2018-06-11-major-marine-trip.md)).
 
 #### Working statistics
 
-Coming into this summer I knew I'd be working hard, and I've talked [previously](https://heytasha.com/questions/2018/08/dealing-with-burnout/) about dealing with that. Here's the grand total of days worked and off throughout the summer
+Coming into this summer I knew I'd be working hard, and I've talked [previously](@/posts/2018-08-13-dealing-with-burnout.md) about dealing with that. Here's the grand total of days worked and off throughout the summer
 
 - Days worked: 92
 
@@ -38,7 +40,13 @@ TBC
 
 #### Finances
 
-Alright, fair warning: I'm about to talk about money. If you're uncomfortable with that in any way, skip to the [rest of the post](#safe-to-read) and _stop reading now._ I'll write a little filler and then stick in some blank lines so nothing hits you in the face. Have a nice day!
+Alright, fair warning: I'm about to talk about money. If you're uncomfortable
+with that in any way, skip to the [rest of the
+post](#seasonal-statistics-in-sum) and _stop reading now._ I'll write a little
+filler and then stick in some blank lines so nothing hits you in the face. Have
+a nice day!
+
+<div style="padding:100% 0">&nbsp;</div>
 
 First, income!
 
@@ -55,6 +63,8 @@ And expenses! Here I had the benefit of housing included with my position as a g
 - Expenses throughout the season: \$4,262.42. Including flights on my way back to Chicago, more gear, more fun, and lots of insurance. If I calculate correctly, around a third of my expenses for the summer just paid for health insurance. Guess it goes to show I value my physical well-being!
 
 On net, I'm positive by a little more than \$5,500 for the summer. Take that as you will.
+
+<div style="padding:100% 0">&nbsp;</div>
 
 #### Seasonal statistics in sum
 
