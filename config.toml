@@ -17,6 +17,9 @@ taxonomies = [
     { name = "tags", feed = false }
 ]
 
+# Ignore vim files
+ignored_content = ["*.swp"]
+
 [markdown]
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
