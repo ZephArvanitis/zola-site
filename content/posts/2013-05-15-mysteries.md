@@ -1,7 +1,7 @@
 +++
 title = "Neutrino Astrophysics: Outstanding mysteries"
 [taxonomies]
-tags = ["physics", "neutrinos"]
+tags = ["physics", "neutrinos", "particle physics", "astrophysics"]
 [extra]
 latex = true
 +++

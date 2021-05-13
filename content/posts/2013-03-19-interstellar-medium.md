@@ -1,5 +1,9 @@
 +++
 title = "Interstellar medium"
+[taxonomies]
+tags = ["physics", "astrophysics"]
+[extra]
+latex = true
 +++
 
 When you look up at night, you see a bunch of little bright points in the
@@ -11,7 +15,7 @@ Between galaxies is the intergalactic medium, and it's even less dense).
 It's made of incredibly diffuse molecules - on average, there's only around
 one to three molecules per cubic meter. Think about that for a second. At
 standard temperature and pressure (pretty close to the room you're in right
-now, probably), there are around 1028 molecules per cubic meter. So the
+now, probably), there are around $10^{28}$ molecules per cubic meter. So the
 interstellar medium doesn't really have much stuff in it. In fact, it's a
 better vacuum than any that we can create here on Earth. This opens up all
 sorts of interesting lines of inquiry, like how chemistry works when

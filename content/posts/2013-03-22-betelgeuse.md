@@ -1,5 +1,7 @@
 +++
 title = "Betelgeuse"
+[taxonomies]
+tags = ["physics", "astrophysics"]
 +++
 Rather than a general physics fact, I thought it'd be fun to share a few
 facts about a star familiar to many stargazers: Betelgeuse, the left

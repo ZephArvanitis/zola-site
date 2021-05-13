@@ -2,7 +2,7 @@
 title = "Monoski! Relearning how to slide on snow"
 date = 2019-02-27
 [taxonomies]
-tags = ["Adventuring", "National Ability Center", "Utah"]
+tags = ["Adventuring", "National Ability Center"]
 +++
 <!-- wp:paragraph -->
 

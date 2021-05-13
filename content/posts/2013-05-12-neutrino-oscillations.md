@@ -1,7 +1,7 @@
 +++
 title = "Neutrino Astrophysics: Neutrino oscillations"
 [taxonomies]
-tags = ["physics", "neutrinos"]
+tags = ["physics", "neutrinos", "particle physics"]
 [extra]
 latex = true
 +++

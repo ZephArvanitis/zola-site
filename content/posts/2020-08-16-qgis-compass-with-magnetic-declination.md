@@ -8,6 +8,8 @@ tags = ["GIS"]
 
 Learn to add magnetic declination to all your QGIS maps and charts! [Part 1 is here](@/posts/2020-08-16-install-a-qgis-plugin.md).
 
+<!-- more -->
+
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

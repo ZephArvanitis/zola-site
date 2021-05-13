@@ -1,5 +1,7 @@
 +++
 title = "Solar convection"
+[taxonomies]
+tags = ["physics", "astrophysics"]
 +++
 It's been a while, but here's a new fun physics fact!
 

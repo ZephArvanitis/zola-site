@@ -1,7 +1,7 @@
 +++
 title = "Neutrino Astrophysics: Rationale and production"
 [taxonomies]
-tags = ["physics", "neutrinos"]
+tags = ["physics", "neutrinos", "astrophysics"]
 +++
 
 This is the first in a series of posts about neutrinos and astrophysics.
@@ -27,7 +27,7 @@ which are produced by cosmic ray interactions with the atmosphere.
 
 In order to discuss neutrino detection, it is beneficial to examine the
 largest source of neutrinos in our neighborhood: fusion in the center of
-the Sun (discussed in much greater depth in the post here). The plot below
+the Sun (discussed in much greater depth in the post [here](@/posts/2013-03-07-fusion.md)). The plot below
 shows the neutrino flux as a function of its energy as a result of various
 steps in hydrogen fusion.
 

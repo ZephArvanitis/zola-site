@@ -1,5 +1,7 @@
 +++
 title = "Chaotic Pendulum"
+[taxonomies]
+tags = ["physics", "presenting my work"]
 [extra]
 latex = true
 +++

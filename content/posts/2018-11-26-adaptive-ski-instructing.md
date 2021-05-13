@@ -2,7 +2,7 @@
 title = "Adaptive Ski Instructing!"
 date = 2018-11-26
 [taxonomies]
-tags = ["Adventuring", "National Ability Center", "Utah"]
+tags = ["Adventuring", "National Ability Center", "teaching"]
 +++
 As I've mentioned [before](@/posts/2018-09-11-transitions.md), I'm doing
 adaptive ski instructing this winter, and today was our first day of training!

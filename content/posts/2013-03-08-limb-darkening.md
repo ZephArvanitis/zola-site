@@ -1,5 +1,7 @@
 +++
 title = "Limb darkening"
+[taxonomies]
+tags = ["physics", "astrophysics"]
 +++
 Given a cloud of gaseous stuff, we can describe absorption and emission of
 radiation in terms of a quantity called the mean free path. The mean free

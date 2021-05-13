@@ -1,7 +1,7 @@
 +++
 title = "Neutrino Astrophysics: The solar neutrino problem"
 [taxonomies]
-tags = ["physics", "neutrinos"]
+tags = ["physics", "neutrinos", "astrophysics"]
 +++
 The neutrino detectors discussed in the last post are all well and good,
 but there's a bit of a problem, and it's substantial enough to have earned
@@ -25,7 +25,6 @@ http://www.sns.ias.edu/~jnb/Papers/Popular/Wiley/paper.pdf
 </figcaption>
 </figure>
 
-From Bahcall, Solar Neutrinos.
 Initially, it seemed like this was bad news for us. Neutrinos come to us
 straight from the center of the sun, as opposed to photons, which take
 thousands to tens of thousands of years to bounce their way out of the

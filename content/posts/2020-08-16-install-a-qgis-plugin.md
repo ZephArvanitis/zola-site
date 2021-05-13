@@ -1,12 +1,17 @@
 +++
 title = "Install a QGIS plugin"
-date = 2020-08-16
+date = 2020-08-15
 [taxonomies]
 tags = ["GIS"]
 +++
 <!-- wp:paragraph -->
 
-QGIS has a multitude of amazing, community-supported plugins for almost any purpose. Today I'll talk you through how to install a QGIS plugin, Magnetic Declination. To use it for the first time, check out [Add a compass rose](@/posts/2020-08-16-qgis-compass-with-magnetic-declination.md) here.
+QGIS has a multitude of amazing, community-supported plugins for almost any
+purpose. Today I'll talk you through how to install a QGIS plugin, Magnetic
+Declination. To use it for the first time, check out [Add a compass
+rose](@/posts/2020-08-16-qgis-compass-with-magnetic-declination.md) here.
+
+<!-- more -->
 
 <!-- /wp:paragraph -->
 

@@ -1,5 +1,7 @@
 +++
 title = "Fragmentation"
+[taxonomies]
+tags = ["physics", "astrophysics"]
 +++
 Often, when we look out into space, we see clusters of young stars. These
 seem puzzling at first - why would so many stars form in the same area?

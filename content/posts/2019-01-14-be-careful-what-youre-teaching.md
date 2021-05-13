@@ -2,7 +2,7 @@
 title = "Be careful what you're teaching"
 date = 2019-01-14
 [taxonomies]
-tags = ["learn", "National Ability Center", "skiing", "surprise", "teaching", "wedge"]
+tags = ["National Ability Center", "skiing", "teaching"]
 +++
 <!-- wp:paragraph -->
 

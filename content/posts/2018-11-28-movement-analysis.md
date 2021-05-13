@@ -2,7 +2,7 @@
 title = "Movement analysis"
 date = 2018-11-28
 [taxonomies]
-tags = ["National Ability Center", "Utah"]
+tags = ["National Ability Center", "teaching"]
 +++
 A key component of ski instructing is observing a student and offering feedback on skiing form. This is known as _movement analysis_, and my classmates and I learned about and practiced it today. Professional Ski Instructors of America (or PSIA, which just rolls off the tongue) uses the MODDS framework:
 

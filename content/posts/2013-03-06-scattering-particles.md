@@ -1,5 +1,7 @@
 +++
 title = "Scattering particles"
+[taxonomies]
+tags = ["physics", "particle physics"]
 [extra]
 latex = true
 +++
@@ -21,7 +23,7 @@ find out the mass and lifetime of the particle.
 On a related note, the $\Delta^{++}$ is a member of the delta family, which
 consists of four baryons (particles composed of three quarks) involving
 only up and down quarks, the same basic ingredients as protons and
-neutrons. That includes the $\Delta^{++}$ (uud) and the $\Delta^0$ (udd)
+neutrons. That includes the $\Delta^{+}$ (uud) and the $\Delta^0$ (udd)
 baryons, which have the same quark composition as protons and neutrons,
 respectively. The distinction is that in the delta family, the spins of all
 three constituent quarks are aligned, for a net spin of 3/2, rather than

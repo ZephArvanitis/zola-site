@@ -1,5 +1,7 @@
 +++
 title = "Neutron stars! And supernovae!"
+[taxonomies]
+tags = ["physics", "astrophysics"]
 [extra]
 latex = true
 +++

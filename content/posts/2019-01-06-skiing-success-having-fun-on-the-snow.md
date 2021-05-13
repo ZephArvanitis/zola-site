@@ -2,7 +2,7 @@
 title = "Skiing success: Having fun on the snow"
 date = 2019-01-06
 [taxonomies]
-tags = ["Adventuring", "National Ability Center"]
+tags = ["teaching", "National Ability Center"]
 +++
 I finished my shadowing process a few weeks ago with an incredible lesson. Our student: a five-year-old skiing for the third time, and on the spectrum. It sounded like this kiddo – Joe – had done fairly well in his first few lessons. Previous instructors said that the main thing to work on was confidence and having fun. Having fun became the main focus of the lesson. More than teaching him to ski, we wanted him to have a blast and look forward to coming back.
 

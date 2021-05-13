@@ -1,5 +1,7 @@
 +++
 title = "Helium flash"
+[taxonomies]
+tags = ["physics", "astrophysics"]
 +++
 
 Stars between around 0.5 and 2.5 solar masses happily ['burn'

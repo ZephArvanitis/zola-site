@@ -1,5 +1,7 @@
 +++
 title = "The physics of sunscreen"
+[taxonomies]
+tags = ["physics"]
 [extra]
 latex = true
 +++

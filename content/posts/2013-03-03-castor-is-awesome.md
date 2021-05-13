@@ -1,5 +1,7 @@
 +++
 title = "Castor: a six-star system"
+[taxonomies]
+tags = ["physics", "astrophysics"]
 +++
 
 Castor, one of the twin stars in Gemini (as in the constellation, not a

@@ -2,7 +2,7 @@
 title = "Wedge Christie"
 date = 2018-11-30
 [taxonomies]
-tags = ["National Ability Center"]
+tags = ["National Ability Center", "teaching"]
 +++
 I've discussed the [beginner ski progression](@/posts/2018-11-26-adaptive-ski-instructing.md) before. One of the hardest parts to teach is transitioning from wedge turns to partially-parallel turns. These are known as the wedge Christie. The idea is that a student is still using a wedge to control their speed as they point downhill, but is approaching parallel skis on the traverses. And it is _hard_ to teach. That's because we're asking students to control their skis independently for the first time. It can be a lot to keep track of.
 

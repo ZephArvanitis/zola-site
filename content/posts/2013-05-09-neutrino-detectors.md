@@ -1,7 +1,7 @@
 +++
 title = "Neutrino Astrophysics: Detectors"
 [taxonomies]
-tags = ["physics", "neutrinos"]
+tags = ["physics", "neutrinos", "astrophysics"]
 [extra]
 latex = true
 +++

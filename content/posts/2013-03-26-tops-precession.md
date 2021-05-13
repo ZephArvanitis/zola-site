@@ -1,5 +1,7 @@
 +++
 title = "Tops and precession"
+[taxonomies]
+tags = ["physics"]
 [extra]
 latex = true
 +++
@@ -10,6 +12,7 @@ If you spin a top, as it slows down, it starts to wobble. In the simplest
 case, the handle of the top just spins around tracing out a rough cone.
 It's called precession, and it affects all sorts of things, from electrons
 to the Earth.
+
 Here's how it works. You have a top, which is spinning and thus has some
 angular momentum. If the top is adequately symmetrical, then the angular
 momentum just points along the spin axis, either upwards or downwards,
@@ -31,6 +34,7 @@ the top is tilted to the right, then the torque vector points away from us.
 If the top wasn't spinning, it would just topple over under the influence
 of gravity. But because it's spinning, and because angular momentum is
 conserved, it can't just topple like that. So what happens?
+
 Recall that $\vec\tau=\frac{d\vec L}{dt}$, that is, torque causes a change
 in the angular momentum. And it's a vector relationship - since the torque
 is pointing away from us, after a very short time $dt$, the angular

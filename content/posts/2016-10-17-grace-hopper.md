@@ -1,5 +1,7 @@
 +++
 title = "Grace Hopper!"
+[taxonomies]
+tags = ["presenting my work"]
 +++
 I’m excited to share that I’ll be speaking at the Grace Hopper Celebration
 of Women in Computer Science this week in Houston, TX. My presentation,

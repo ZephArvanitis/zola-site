@@ -59,7 +59,7 @@ I'll be doing a lot of planning over the next few months. A few key logistical t
 <!-- wp:list -->
 
 - Route – I tentatively plan to follow Miller's route, from _Kayaking the Inside Passage_. There's still lots of choices to be made.
-- Gear – I already own a fair amount of the gear I'll need, but I'll be polishing up my list and making some purchases. For instance, I've been an outdoors professional for two years and \_still \_don't own a stove.
+- Gear – I already own a fair amount of the gear I'll need, but I'll be polishing up my list and making some purchases. For instance, I've been an outdoors professional for two years and _still_ don't own a stove.
 - Risk management – there are lots of things to be aware of along the Inside Passage, and plenty of research to be done to mitigate risks as much as possible.
 - Food – I plan to do a mix of mailed resupplies of dehydrated food and purchased resupplies along the way.
 

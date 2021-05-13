@@ -2,7 +2,7 @@
 title = "Physics factor problems"
 date = 2018-12-04
 [taxonomies]
-tags = ["How stuff works", "Physics"]
+tags = ["teaching", "Physics"]
 [extra]
 latex = true
 +++
