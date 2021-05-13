@@ -3,11 +3,15 @@
 {% block title %}{{ page.title }}{% endblock title %}
 
 {% block content %}
+    <div class="row"><div class="col-12 col-lg-8 offset-lg-2 border
+            border-dark p-3 mb-5 rounded">
 <h1>{{ page.title }}</h1>
 <p>{{ macros::page_publish_metadata(page=page, comma=true) }} {{ macros::page_content_metadata(page=page) }}</p>
 <p>{{ macros::render_tags(page=page) }}</p>
 
-{{ page.content | safe }}
+        {{ page.content | safe }}
+    </div>
+    </div>
 <br>
 {% if page.earlier or page.later %}
     <div class="row">

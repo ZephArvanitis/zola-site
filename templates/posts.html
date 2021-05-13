@@ -2,12 +2,12 @@
 {% block title %}All posts{% endblock title %}
 
 {% block content %}
-{% if paginator %}
+  {% if paginator %}
     {% set pages = paginator.pages %}
-{% else %}
+  {% else %}
     {% set pages = section.pages %}
-{% endif %}
-<article class="four-fifth center">
+  {% endif %}
+  <article class="four-fifth center">
     <h1 class="text-center">{{ section.title }}</h1>
     <div class="row"><div class="col-12 col-lg-8 offset-lg-2">
       {% for page in pages %}
@@ -15,64 +15,30 @@
       {% endfor %}
 
       <br>
-{% if paginator.previous or paginator.next %}
-    <div class="row">
-    {% if paginator.previous %}
-    <div class="col-sm text-center">
-    <p><a class="btn btn-dark" href="{{ paginator.previous }}">
-        <i class="fa fa-arrow-circle-left"></i>&nbsp;Newer posts
-    </a></p>
-    <br/>
-    </div>
-    {% endif %}
-    {% if paginator.next %}
-    <div class="col-sm text-center">
-    <p><a class="btn btn-dark" style="text-align-last:right"
-        href="{{ paginator.next }}">
-        Older posts&nbsp;<i class="fa fa-arrow-circle-right"></i>
-    </a></p>
-    <br/>
-    </div>
-    {% endif %}
-    </div>
-{% endif %}
+        {% if paginator.previous or paginator.next %}
+          <div class="row">
+          {% if paginator.previous %}
+          <div class="col-sm text-center">
+          <p><a class="btn btn-dark" href="{{ paginator.previous }}">
+              <i class="fa fa-arrow-circle-left"></i>&nbsp;Newer posts
+          </a></p>
+          <br/>
+          </div>
+          {% endif %}
+          {% if paginator.next %}
+          <div class="col-sm text-center">
+          <p><a class="btn btn-dark" style="text-align-last:right"
+              href="{{ paginator.next }}">
+              Older posts&nbsp;<i class="fa fa-arrow-circle-right"></i>
+          </a></p>
+          <br/>
+          </div>
+          {% endif %}
+          </div>
+        {% endif %}
 
-  {% set section = get_section(path="posts/_index.md") %}
-    <h1 class="text-center">All {{ section.title }}</h1>
-        <div id="accordion">
-          {% for year, posts in section.pages | group_by(attribute="year") %}
-          <div class="card">
-              <div class="card-header" id="heading{{ year }}"
-                   style="padding:0.1em 1em">
-                  <h5 class="mb-0">
-                    <button class="btn btn-link" data-toggle="collapse"
-                        data-target="#collapse{{ year }}" aria-expanded="true"
-                        aria-controls="collapseOne">
-                        {{ year }} ({{ posts | length }} posts)
-                    </button>
-                  </h5>
-                </div>
-
-            {% if loop.index0 == 0 %}
-                {% set div_classes = "collapse show" %}
-            {% else %}
-                {% set div_classes = "collapse" %}
-            {% endif %}
-            <div id="collapse{{ year }}" class="{{ div_classes }}"
-                                         aria-labelledby="heading{{ year }}"
-                                         data-parent="#accordion">
-                  <div class="card-body">
-                      {% for post in posts %}
-                      <p style="line-height:1em"><a href="{{ post.permalink  }}">{{ post.title }} ({{
-                              post.date | date(format="%d %B") }})</a></p>
-                      {% endfor %}
-                  </div>
-                </div>
-              </div>
-          {% endfor %}
-        </div>
-        </div>
-        </div>
-        <br/>
-</article>
+      </div>
+    </div>
+    <br/>
+  </article>
 {% endblock content %}
