@@ -4,16 +4,64 @@
 
 {% block content %}
 <div class="container">
-    <h1 class="text-center">All Tags</h1>
     <div class="row">
-        <div class="col-lg-8 col-md-10 mx-auto">
-            <p>
-                {% for tag in terms %}
-                <span><a href="{{ tag.permalink }}">
-                    {{ tag.name | lower | replace(from=" ", to="-") }}
-                    ({{ tag.pages | length }})</a>{% if not loop.last %},{% endif %}</span>
+        <div class="col-sm-4 mx-auto text-center">
+            <h2>Physics</h2>
+                {% for tag_str in ['astrophysics', 'neutrinos', 'particle-physics', 'physics', 'presenting-my-work'] %}
+                <p style="padding:0;margin:0">
+
+                <a href="/tags/{{ tag_str }}">
+                    <span class="icon is-small">
+                      <i class="fa fa-tag fa-xs"></i>
+                    </span>
+                    {{ tag_str | lower | replace(from=" ", to="-") }}</a></p>
                 {% endfor %}
-            </p>
+                <br>
+        </div>
+        <div class="col-sm-4 mx-auto text-center">
+            <h2>Outdoors</h2>
+                {% for tag_str in ['adventuring', 'alaska',
+                'anacortes-kayak-tours', 'baja', 'biking',
+                'kayak-adventures', 'national-ability-center', 'outdoors'] %}
+                <p style="padding:0;margin:0">
+
+                <a href="/tags/{{ tag_str }}">
+                    <span class="icon is-small">
+                      <i class="fa fa-tag fa-xs"></i>
+                    </span>
+                    {{ tag_str | lower | replace(from=" ", to="-") }}</a></p>
+                {% endfor %}
+                <br>
+        </div>
+        <div class="col-sm-4 mx-auto text-center">
+            <h2>Computers</h2>
+                {% for tag_str in ['data-science', 'gis', 'programming',
+                'sysadmin', 'web-dev'] %}
+                <p style="padding:0;margin:0">
+
+                <a href="/tags/{{ tag_str }}">
+                    <span class="icon is-small">
+                      <i class="fa fa-tag fa-xs"></i>
+                    </span>
+                    {{ tag_str | lower | replace(from=" ", to="-") }}</a></p>
+                {% endfor %}
+                <br>
+        </div>
+    </div>
+    <div class="row text-center">
+        <div class="col-lg-8 col-md-10 mx-auto text-center">
+            <h1 class="text-center">All Tags</h1>
+                {% for tag in terms %}
+                <p style="padding:0;margin:0">
+
+                <a href="{{ tag.permalink }}">
+                    <span class="icon is-small">
+                      <i class="fa fa-tag fa-xs"></i>
+                    </span>
+                    {{ tag.name | lower | replace(from=" ", to="-") }}
+                    ({{ tag.pages | length }})</a></p>
+                {% endfor %}
+                <br>
         </div>
     </div>
 </div>
