@@ -5,7 +5,7 @@
 {% block content %}
 <div class="container">
     <div class="row">
-        <div class="col-sm-4 mx-auto text-center">
+        <div class="col-sm-3 mx-auto text-center">
             <h2>Physics</h2>
                 {% for tag_str in ['astrophysics', 'neutrinos', 'particle-physics', 'physics', 'presenting-my-work'] %}
                 <p style="padding:0;margin:0">
@@ -18,7 +18,20 @@
                 {% endfor %}
                 <br>
         </div>
-        <div class="col-sm-4 mx-auto text-center">
+        <div class="col-sm-3 mx-auto text-center">
+            <h2>Fire</h2>
+                {% for tag_str in ['mount-erie-fire'] %}
+                <p style="padding:0;margin:0">
+
+                <a href="/tags/{{ tag_str }}">
+                    <span class="icon is-small">
+                      <i class="fa fa-tag fa-xs"></i>
+                    </span>
+                    {{ tag_str | lower | replace(from=" ", to="-") }}</a></p>
+                {% endfor %}
+                <br>
+        </div>
+        <div class="col-sm-3 mx-auto text-center">
             <h2>Outdoors</h2>
                 {% for tag_str in ['adventuring', 'alaska',
                 'anacortes-kayak-tours', 'baja', 'biking',
@@ -33,9 +46,9 @@
                 {% endfor %}
                 <br>
         </div>
-        <div class="col-sm-4 mx-auto text-center">
+        <div class="col-sm-3 mx-auto text-center">
             <h2>Computers</h2>
-                {% for tag_str in ['data-science', 'gis', 'programming',
+                {% for tag_str in ['data-science', 'gis', 'hacking-around', 'programming',
                 'sysadmin', 'web-dev'] %}
                 <p style="padding:0;margin:0">
 
