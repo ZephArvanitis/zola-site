@@ -12,6 +12,8 @@ handbook without a robust internet connection (I'm looking at you, Bowman
 Bay). So my goal was to come up with a way to reference a snapshot of the
 handbook offline.
 
+<!-- more -->
+
 The standard download format for full wikis in the mediawiki ecosystem is a
 ZIM file (.zim). You can read all about what's in a zim file and how to
 manipulate them on the [OpenZIM wiki](https://www.openzim.org/wiki/OpenZIM).
