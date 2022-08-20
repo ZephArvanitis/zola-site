@@ -15,6 +15,28 @@ order to construct one dataset of hydrant locations covering both MEFD and
 Anacortes's service areas.
 
 <!-- more -->
+tl;dr
+---
+This is going to be a fairly technical post – effectively the how-to guide
+I wish I'd had when starting this project. If geospatial analysis isn't
+your thing, that's cool! But you might want to check out some other
+content. Or just skip to the fun map at the end.
+
+In short,
+
+1. Hydrants are really important for firefighting (duh).
+2. Knowing where hydrants are located is important too.
+3. Physical map books are great, but often a digital way of finding nearby
+   hydrants is valuable too. Up until now, while we've had digital hydrant
+   maps for within our district, we relied on mapbooks for mutual aid.
+4. A couple weeks ago we got hydrant locations from a frequent mutual aid
+   partner (hooray!), but it also included some hydrants that are in our
+   district. All well and good, but the two datasets didn't _quite_ agree
+   on where these hydrants were.
+5. So I did some fun geospatial hackery to combine the datasets into a
+   best understanding of where hydrants are located within our district and
+   outside, in the service area for our mutual aid partner.
+
 Step one: general visualization and recon
 ---
 
