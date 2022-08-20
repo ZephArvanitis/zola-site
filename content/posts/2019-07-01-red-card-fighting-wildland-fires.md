@@ -6,7 +6,7 @@ tags = ["Emergency response", "Mount Erie Fire"]
 +++
 <!-- wp:paragraph -->
 
-In Anacortes, I have the unique privilege of volunteering with the local Mount Erie Fire Department, or Skagit County District 11. I joined just in time to get in on this year's red card training for wildland firefighting. I learned a ton, met people from across the state, and ended up earning my red card (or incident qualification card, if you want to be all modern about it). A few highlights:
+In Anacortes, I have the unique privilege of volunteering with the local Mount Erie Fire Department, or Skagit County District 11. I joined just in time to get in on this year's red card training for wildland firefighting. I learned a ton, met people from across the state, and ended up earning my red card (or incident qualification card, if you want to be all modern about it).
 
 <!-- /wp:paragraph -->
 
