@@ -18,7 +18,7 @@ someone else will find it useful too.
 
 <!-- more -->
 
-As a fair warning, this site (heytasha.com/questions) is actually my second
+As a fair warning, this site is actually my second
 attempt at self-hosting WordPress. My first was a standalone website with a URL
 that was way too long: questionsquestionseverywhere.com. That's a long enough
 URL that I started abbreviating it and referring simply to QQE, a bad sign. And

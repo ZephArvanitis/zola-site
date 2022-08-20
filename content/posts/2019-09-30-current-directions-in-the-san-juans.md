@@ -92,7 +92,7 @@ Current directions in the San Juans!
 DISCLAIMER: Not intended for navigation or planning purposes, no warranty etc.,
 don't do stupid stuff.  Also, because this uses GADM, it cannot be used for
 commercial applications – feel free to reproduce (for free) as long as you
-provide a link to this page and credit Tasha/Zeph Arvanitis/wxyzeph.com
+provide a link to this page and credit Zeph Arvanitis/wxyzeph.com
 
 <!-- /wp:image -->
 

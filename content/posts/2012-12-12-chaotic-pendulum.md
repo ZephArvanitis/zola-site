@@ -9,7 +9,7 @@ latex = true
 This post was originally a paper written with Vivian Steyert for a class,
 Theoretical Mechanics. In summer 2015 I adapted it for this blog. If you're
 interested in the original paper (pdf), you can read it
-[here](https://heytasha.com/timeline/chaotic-pendulum.pdf).
+[here](https://wxyzeph.com/chaotic-pendulum.pdf).
 <!-- more -->
 
 In writing this paper, Vivian and I investigated the behavior of a chaotic

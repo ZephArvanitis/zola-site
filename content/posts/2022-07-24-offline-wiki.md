@@ -20,7 +20,7 @@ manipulate them on the [OpenZIM wiki](https://www.openzim.org/wiki/OpenZIM).
 
 After a great deal of unproductive hacking around with manually scraping
 the and using `pyzim` to generate zim files (I still think that ought to be
-possible, but I don't recommend it as a solution) mwoffliner to generate a zim file
+possible, but I don't recommend it as a solution), I settled on mwoffliner to generate a zim file
 for the MEFD wiki. Read all about it in its [GitHub
 repository](https://github.com/openzim/mwoffliner). You can
 install mwoffliner globally by running `npm i -g mwoffliner` on a system with

@@ -30,7 +30,7 @@ necessary to view those files via a website.
    a bit of time adjusting `~/.ssh/config` to make my life easier)
 4. Set up root account
     - clone dotfiles and move them into place (follow instructions at
-        https://github.com/TashaArvanitis/dotfiles, note you cannot use the
+        https://github.com/ZephArvanitis/dotfiles, note you cannot use the
         git@github.com route to clone because you don't have a github ssh key
         set up ... yet)
     - get vim set up (with my current vimrc, just open vim and let the

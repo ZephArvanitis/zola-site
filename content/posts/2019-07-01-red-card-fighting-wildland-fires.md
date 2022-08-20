@@ -2,7 +2,7 @@
 title = "Red card: Fighting wildland fires"
 date = 2019-07-01
 [taxonomies]
-tags = ["Emergency response"]
+tags = ["Emergency response", "Mount Erie Fire"]
 +++
 <!-- wp:paragraph -->
 
