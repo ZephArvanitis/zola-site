@@ -55,7 +55,7 @@ If the stack of water is really short, it’s lower pressure in that
 direction and the parcel will get sucked up. When that parcel at the bottom
 of the suction hose has the same amount of force from both atmosphere and
 water stack, it’s at equilibrium and the column has reached the maximum
-heigh it can possibly be suctioned.
+height it can possibly be suctioned.
 
 So that tells us that we can solve for max suction height using this equation:
 

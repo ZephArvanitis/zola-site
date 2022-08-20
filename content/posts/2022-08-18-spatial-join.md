@@ -124,7 +124,7 @@ Effectively what this boils down to:
 5. Finally, we take the centroid of each distinct shape as the new location
    of the hydrants. This assumes that the two datasets are equally good
    approximations of the actual hydrant location, which is a bit of a
-   guess, but hopefully a decent on.
+   guess, but hopefully a decent one.
 
 After all this, there were several edge cases that weren't quite taken care
 of. Things like hydrants that may or may not exist, places where I couldn't
