@@ -92,7 +92,7 @@ p_0 &= p_1 + \frac12\rho\left(\frac{Q_1}{A}\right)^2
 Rearranging a bit, we can see the pressure drop is:
 
 \begin{align}
-(p_0 - p_1) &= \frac12\rho\left(\frac{Q_1}{A}\right)
+(p_0 - p_1) &= \frac12\rho\left(\frac{Q_1}{A}\right)^2
 \end{align}
 
 Or, if we want to flip this on its head, flow rate as a function of
