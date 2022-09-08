@@ -110,7 +110,7 @@ simplicity, and will be assuming all operations are happening with no real
 elevation changes. Similarly, let's say our pump is operating at a constant
 speed, rather than using a pressure governor.)
 
-### Example 1: turn off a nozzle
+### Let's turn off a nozzle
 {% quote(author="") %}
 We've been fighting fire, and your nozzle operator has been
 flowing 125 gallons per minutes through your super snazzy combination
