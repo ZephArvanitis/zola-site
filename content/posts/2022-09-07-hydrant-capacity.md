@@ -219,7 +219,7 @@ So the resulting residual pressure in this case would be 40 psi, so still
 safe for the water system. Hooray!
 
 ### Wrapping up
-At least for me, this was fairly helpful in understanding where these ruels
+At least for me, this was fairly helpful in understanding where these rules
 come from – it's all about pressure and flow rates, and Bernoulli's
 equation continues to help out with converting between the two. Plus it's
 nice to confirm that the standard wisdom really does work with the
